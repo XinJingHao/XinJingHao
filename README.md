@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XinJingHao
 - 👀 I’m interested in Deep Reinforcement Learning and its application on mobile robots.
-- 🌱 I’m currently pursuiting my Ph.D degree at Shanghai Jiaotong University, China.
+- 🌱 I’m currently pursuiting my Ph.D degree at Shanghai Jiao Tong University, China.
 - 📫 You can reach me by 913508095@qq.com
 
 <!---
