@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @XinJingHao
 - 👀 I’m interested in **Deep Reinforcement Learning**, **GPU accelerated Particle Swarm Optimization** and their application on **mobile robots**.
-- 🌱 I’m a Ph.D. student at Shanghai Jiao Tong University, China. I am currently a visiting student at Nanyang Technological University, Singapore.
+- 🌱 I’m a Ph.D. student at Shanghai Jiao Tong University, China. I am also a visiting student at Nanyang Technological University, Singapore.
 
 
 <!---
